@@ -1,0 +1,21 @@
+-- Ejemplos de inserción con diferentes precios
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Laptop HP', 1299.99, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Cámara DSLR Canon', 899.50, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Monitor LG', 349.00, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Teclado mecánico', 79.95, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Ratón inalámbrico', 29.99, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Disco duro externo', 119.75, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Impresora multifunción', 199.25, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Micrófono USB', 59.50, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Mochila para laptop', 49.99, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Bocinas Bluetooth', 129.00, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Tableta gráfica', 299.99, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Cargador inalámbrico', 19.75, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('SSD 1TB', 179.50, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Kit de herramientas', 89.95, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Módem de internet', 69.99, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Batería externa', 39.50, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Funda para smartphone', 14.99, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Estuche para auriculares', 9.75, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Hub USB', 24.50, NOW());
+INSERT INTO productos (nombre, precio, create_At) VALUES ('Lámpara LED', 34.95, NOW());
